@@ -90,7 +90,7 @@ margin-bottom:100px;
 
 
 #adventure .adventure-card {
-background-image: url("../images/adventure-card.png");
+background-image: url("images/adventure-card.png");
 background-size:cover ;
 height:565px;
 display: flex;
@@ -138,7 +138,7 @@ h4 {
 
 #subscribe {
 
-  background-image: url("../images/sf-bridge.png");
+  background-image: url("images/sf-bridge.png");
 
   color:white;
   text-align: center;
